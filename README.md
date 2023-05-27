@@ -1,2 +1,2 @@
-# go-hashmap
+# dict
 go-hashmap
